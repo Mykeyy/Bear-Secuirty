@@ -62,7 +62,7 @@ If everything is set up correctly, the bot will connect to Discord and sync its 
 Below are screenshots of the bot in action:
 
 ### Bot Status
-![Bot Status](./Screenshot/bot_status.png)
+![Bot Status](.Screenshots/bot_status.png)
 
 ### Bear Command
 ![Bear Command](./Screenshots/bear_command.png)
