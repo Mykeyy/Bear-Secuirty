@@ -50,7 +50,7 @@ async def ping(interaction: discord.Interaction):
 
     # Create an embed with latency and uptime
     embed = discord.Embed(
-        title="🏓 Pong!",
+        title="🏓 Ping Pong!",
         description="The bot API is responsive!",
         color=discord.Color.from_str("#3e5fc0")  # Blue color
     )
