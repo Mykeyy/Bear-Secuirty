@@ -75,6 +75,3 @@ Below are screenshots of the bot in action:
 - Ensure your `DISCORD_TOKEN` is correctly set in the `.env` file.
 - If dependencies are missing, ensure you are using the development shell provided by `flake.nix`.
 
-## License
-
-This project is licensed under the MIT License.
